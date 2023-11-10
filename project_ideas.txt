@@ -1,0 +1,7 @@
+Project Ideas: 
+
+1. Cross data recognition of glacial features: Teach a model to recognise a glacier front on (1) the various channels of an RGB or multispectral image and (2) a SAR or GPR image
+
+	- Expand to measure quantities such as retreat per year, or estimate volume or mass of glacier
+	
+2. Sediment type classification through image recognition of core line imaging

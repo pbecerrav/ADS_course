@@ -1,0 +1,9 @@
+Files can be created using the following commands: 
+1. ~ touch filename.extension
+2. ~ cat > filename.extension (this will prompt you to fill the file with something, use "Ctrl+D" to save and exit
+3. ~ > filename.extension (this will also prompt you to fill the file with 
+something) 
+4. ~ echo "These are the file contents" > filename.extension" (This will 
+first create 
+a blank text file file1 and save the given file name contents in it.)
+5. ~ printf 'Studying hard will never fail you.\n' > file2.txt (This will create an empty file with file name file2 and add the given content to the file.)

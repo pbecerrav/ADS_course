@@ -1,0 +1,625 @@
+﻿Mother figure,Movie title,Psy (cat),Pro (cat),Year of release,"Psy (1-Re, 2-Tr, 3-Th)","Pro (1-Ho, 2-Pt, 3-Ft)","Type of scenario (1-Based on an existing story, 2-Original)"
+M1,A Bug's Life,Comforting,Full-time,1998,1,3,2
+M2,Aladdin,Neutral,Full-time,1992,2,3,1
+M3,Aladdin,Neutral,At home,1992,2,1,1
+M4,Aladdin and the King of Thieves,Comforting,At home,1996,1,1,2
+M5,Aladdin and the King of Thieves,Neutral,At home,1996,2,1,2
+M6,Aladdin and the King of Thieves,Neutral,At home,1996,2,1,2
+M7,Alice in Wonderland,Comforting,At home,1951,1,1,1
+M8,Alice in Wonderland,Comforting,At home,1951,1,1,1
+M9,Alice in Wonderland,Comforting,At home,1951,1,1,1
+M10,Alice in Wonderland,Neutral,At home,1951,2,1,1
+M11,Alice in Wonderland,Threatening,Full-time,1951,3,3,1
+M12,Alpha and Omega,Comforting,Part-time,2010,1,2,2
+M13,Alpha and Omega,Comforting,Part-time,2010,1,2,2
+M14,Alpha and Omega,Comforting,Part-time,2010,1,2,2
+M15,Anastasia,Comforting,Full-time,1997,1,3,1
+M16,Anastasia,Neutral,Full-time,1997,2,3,1
+M17,Anastasia,Threatening,Full-time,1997,3,3,1
+M18,Antz,Comforting,Full-time,1998,1,3,2
+M19,Antz,Threatening,Full-time,1998,3,3,2
+M20,Atlantis: Milo's Return,Comforting,Full-time,2003,1,3,2
+M21,Atlantis: Milo's Return,Comforting,Full-time,2003,1,3,2
+M22,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M23,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M24,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M25,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M26,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M27,Atlantis: Milo's Return,Comforting,At home,2003,1,1,2
+M28,Atlantis: The Lost Empire,Comforting,Full-time,2001,1,3,1
+M29,Balto,Comforting,Full-time,1995,1,3,1
+M30,Balto,Comforting,Full-time,1995,1,3,1
+M31,Balto,Comforting,Full-time,1995,1,3,1
+M32,Balto,Comforting,Full-time,1995,1,3,1
+M33,Balto,Comforting,Part-time,1995,1,2,1
+M34,Balto,Comforting,At home,1995,1,1,1
+M35,Balto,Comforting,At home,1995,1,1,1
+M36,Balto,Comforting,At home,1995,1,1,1
+M37,Balto,Comforting,At home,1995,1,1,1
+M38,Balto,Comforting,At home,1995,1,1,1
+M39,Balto,Comforting,At home,1995,1,1,1
+M40,Balto,Comforting,At home,1995,1,1,1
+M41,Balto,Comforting,At home,1995,1,1,1
+M42,Balto,Comforting,At home,1995,1,1,1
+M43,Balto,Comforting,At home,1995,1,1,1
+M44,Balto,Comforting,At home,1995,1,1,1
+M45,Balto,Comforting,At home,1995,1,1,1
+M46,Balto,Comforting,At home,1995,1,1,1
+M47,Balto II: Wolf Quest,Comforting,Part-time,2002,1,2,2
+M48,Balto II: Wolf Quest,Comforting,At home,2002,1,1,2
+M49,Balto II: Wolf Quest,Comforting,At home,2002,1,1,2
+M50,Balto II: Wolf Quest,Comforting,At home,2002,1,1,2
+M51,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M52,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M53,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M54,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M55,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M56,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M57,Balto III: Wings of Change,Comforting,At home,2004,1,1,2
+M58,Bambi,Comforting,At home,1942,1,1,1
+M59,Bambi,Comforting,At home,1942,1,1,1
+M60,Bambi,Comforting,At home,1942,1,1,1
+M61,Bambi,Comforting,At home,1942,1,1,1
+M62,Bambi,Comforting,At home,1942,1,1,1
+M63,Bambi,Comforting,At home,1942,1,1,1
+M64,Bambi,Comforting,At home,1942,1,1,1
+M65,Bambi,Comforting,At home,1942,1,1,1
+M66,Bambi,Comforting,At home,1942,1,1,1
+M67,Bambi,Comforting,At home,1942,1,1,1
+M68,Beauty and the Beast,Comforting,Full-time,1991,1,3,1
+M69,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M70,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M71,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M72,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M73,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M74,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M75,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M76,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M77,Beauty and the Beast,Comforting,At home,1991,1,1,1
+M78,Beauty and the Beast,Neutral,At home,1991,2,1,1
+M79,Bolt,Comforting,At home,2009,1,1,2
+M80,Bolt,Neutral,At home,2009,2,1,2
+M81,Brother Bear,Comforting,Full-time,2003,1,3,2
+M82,Brother Bear,Comforting,Part-time,2003,1,2,2
+M83,Brother Bear,Comforting,Part-time,2003,1,2,2
+M84,Brother Bear,Comforting,Part-time,2003,1,2,2
+M85,Brother Bear,Comforting,Part-time,2003,1,2,2
+M86,Brother Bear,Comforting,Part-time,2003,1,2,2
+M87,Brother Bear,Comforting,At home,2003,1,1,2
+M88,Brother Bear,Comforting,At home,2003,1,1,2
+M89,Brother Bear,Comforting,At home,2003,1,1,2
+M90,Brother Bear 2,Comforting,Full-time,2006,1,3,2
+M91,Brother Bear 2,Comforting,Part-time,2006,1,2,2
+M92,Brother Bear 2,Comforting,At home,2006,1,1,2
+M93,Brother Bear 2,Comforting,At home,2006,1,1,2
+M94,Brother Bear 2,Comforting,At home,2006,1,1,2
+M95,Brother Bear 2,Comforting,At home,2006,1,1,2
+M96,Brother Bear 2,Comforting,At home,2006,1,1,2
+M97,Brother Bear 2,Threatening,At home,2006,3,1,2
+M98,Brother Bear 2,Threatening,At home,2006,3,1,2
+M99,Chicken Little,Comforting,At home,2005,1,1,1
+M100,Chicken Little,Comforting,At home,2005,1,1,1
+M101,Chicken Little,Comforting,At home,2005,1,1,1
+M102,Chicken Little,Comforting,At home,2005,1,1,1
+M103,Chicken Little,Comforting,At home,2005,1,1,1
+M104,Chicken Little,Comforting,At home,2005,1,1,1
+M105,Chicken Little,Threatening,At home,2005,3,1,1
+M106,Cinderella,Comforting,Full-time,1950,1,3,1
+M107,Cinderella,Comforting,At home,1950,1,1,1
+M108,Cinderella,Comforting,At home,1950,1,1,1
+M109,Cinderella,Comforting,At home,1950,1,1,1
+M110,Cinderella,Comforting,At home,1950,1,1,1
+M111,Cinderella,Comforting,At home,1950,1,1,1
+M112,Cinderella,Comforting,At home,1950,1,1,1
+M113,Cinderella,Comforting,At home,1950,1,1,1
+M114,Cinderella,Neutral,Full-time,1950,2,3,1
+M115,Cinderella,Threatening,At home,1950,3,1,1
+M116,Cinderella II: Dreams Come True,Comforting,Full-time,2002,1,3,2
+M117,Cinderella II: Dreams Come True,Comforting,Full-time,2002,1,3,2
+M118,Cinderella II: Dreams Come True,Comforting,Full-time,2002,1,3,2
+M119,Cinderella II: Dreams Come True,Comforting,Full-time,2002,1,3,2
+M120,Cinderella II: Dreams Come True,Comforting,At home,2002,1,1,2
+M121,Cinderella II: Dreams Come True,Comforting,At home,2002,1,1,2
+M122,Cinderella II: Dreams Come True,Comforting,At home,2002,1,1,2
+M123,Cinderella II: Dreams Come True,Comforting,At home,2002,1,1,2
+M124,Cinderella II: Dreams Come True,Threatening,Full-time,2002,3,3,2
+M125,Cinderella II: Dreams Come True,Threatening,At home,2002,3,1,2
+M126,Cinderella III: A Twist in Time,Comforting,Full-time,2007,1,3,2
+M127,Cinderella III: A Twist in Time,Threatening,Full-time,2007,3,3,2
+M128,Cinderella III: A Twist in Time,Threatening,At home,2007,3,1,2
+M129,Despicable Me,Comforting,Full-time,2010,1,3,2
+M130,Despicable Me,Comforting,At home,2010,1,1,2
+M131,Despicable Me,Comforting,At home,2010,1,1,2
+M132,Despicable Me,Comforting,At home,2010,1,1,2
+M133,Despicable Me,Comforting,At home,2010,1,1,2
+M134,Despicable Me,Comforting,At home,2010,1,1,2
+M135,Despicable Me,Comforting,At home,2010,1,1,2
+M136,Despicable Me,Comforting,At home,2010,1,1,2
+M137,Despicable Me,Comforting,At home,2010,1,1,2
+M138,Despicable Me,Comforting,At home,2010,1,1,2
+M139,Despicable Me,Comforting,At home,2010,1,1,2
+M140,Despicable Me,Comforting,At home,2010,1,1,2
+M141,Despicable Me,Threatening,Full-time,2010,3,3,2
+M142,Despicable Me,Threatening,At home,2010,3,1,2
+M143,Despicable Me,Threatening,At home,2010,3,1,2
+M144,Dr. Seuss' Horton Hears a Who!,Comforting,At home,2008,1,1,1
+M145,Dr. Seuss' Horton Hears a Who!,Comforting,At home,2008,1,1,1
+M146,Dr. Seuss' Horton Hears a Who!,Threatening,At home,2008,3,1,1
+M147,Dumbo,Comforting,Part-time,1941,1,2,1
+M148,Dumbo,Comforting,Part-time,1941,1,2,1
+M149,Dumbo,Comforting,Part-time,1941,1,2,1
+M150,Dumbo,Comforting,Part-time,1941,1,2,1
+M151,Dumbo,Comforting,Part-time,1941,1,2,1
+M152,Dumbo,Comforting,Part-time,1941,1,2,1
+M153,Dumbo,Comforting,Part-time,1941,1,2,1
+M154,Dumbo,Comforting,Part-time,1941,1,2,1
+M155,Dumbo,Comforting,Part-time,1941,1,2,1
+M156,Dumbo,Comforting,Part-time,1941,1,2,1
+M157,Dumbo,Comforting,Part-time,1941,1,2,1
+M158,Dumbo,Threatening,Part-time,1941,3,2,1
+M159,Dumbo,Threatening,Part-time,1941,3,2,1
+M160,Dumbo,Threatening,Part-time,1941,3,2,1
+M161,Dumbo,Threatening,Part-time,1941,3,2,1
+M162,Dumbo,Threatening,Part-time,1941,3,2,1
+M163,Dumbo,Threatening,Part-time,1941,3,2,1
+M164,Finding Nemo,Comforting,At home,2003,1,1,2
+M165,Finding Nemo,Comforting,At home,2003,1,1,2
+M166,Finding Nemo,Comforting,At home,2003,1,1,2
+M167,Finding Nemo,Comforting,At home,2003,1,1,2
+M168,Finding Nemo,Comforting,At home,2003,1,1,2
+M169,Finding Nemo,Neutral,At home,2003,2,1,2
+M170,Hercules,Comforting,At home,1997,1,1,1
+M171,Hercules,Comforting,At home,1997,1,1,1
+M172,Home on the Range,Comforting,Full-time,2004,1,3,2
+M173,Home on the Range,Comforting,At home,2004,1,1,2
+M174,Home on the Range,Comforting,At home,2004,1,1,2
+M175,Home on the Range,Comforting,At home,2004,1,1,2
+M176,Home on the Range,Comforting,At home,2004,1,1,2
+M177,Home on the Range,Comforting,At home,2004,1,1,2
+M178,Home on the Range,Comforting,At home,2004,1,1,2
+M179,Home on the Range,Comforting,At home,2004,1,1,2
+M180,Home on the Range,Comforting,At home,2004,1,1,2
+M181,Home on the Range,Neutral,At home,2004,2,1,2
+M182,Hoodwinked!,Comforting,Part-time,2005,1,2,1
+M183,Hoodwinked!,Comforting,Part-time,2005,1,2,1
+M184,Hoodwinked!,Comforting,At home,2005,1,1,1
+M185,Hoodwinked!,Comforting,At home,2005,1,1,1
+M186,Hoodwinked!,Comforting,At home,2005,1,1,1
+M187,Ice Age,Comforting,At home,2002,1,1,2
+M188,Ice Age,Comforting,At home,2002,1,1,2
+M189,Ice Age,Neutral,At home,2002,2,1,2
+M190,Ice Age: Dawn of the Dinosaurs,Comforting,Part-time,2009,1,2,2
+M191,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M192,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M193,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M194,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M195,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M196,Ice Age: Dawn of the Dinosaurs,Comforting,At home,2009,1,1,2
+M197,Ice Age: Dawn of the Dinosaurs,Neutral,Part-time,2009,2,2,2
+M198,Ice Age: Dawn of the Dinosaurs,Neutral,At home,2009,2,1,2
+M199,Ice Age: The Meltdown,Comforting,Part-time,2006,1,2,2
+M200,Ice Age: The Meltdown,Comforting,Part-time,2006,1,2,2
+M201,Ice Age: The Meltdown,Comforting,Part-time,2006,1,2,2
+M202,Ice Age: The Meltdown,Comforting,Part-time,2006,1,2,2
+M203,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M204,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M205,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M206,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M207,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M208,Ice Age: The Meltdown,Comforting,At home,2006,1,1,2
+M209,Ice Age: The Meltdown,Neutral,At home,2006,2,1,2
+M210,Joseph: King of Dreams,Comforting,Part-time,2000,1,2,1
+M211,Joseph: King of Dreams,Comforting,At home,2000,1,1,1
+M212,Joseph: King of Dreams,Comforting,At home,2000,1,1,1
+M213,Joseph: King of Dreams,Comforting,At home,2000,1,1,1
+M214,Joseph: King of Dreams,Comforting,At home,2000,1,1,1
+M215,Joseph: King of Dreams,Comforting,At home,2000,1,1,1
+M216,Joseph: King of Dreams,Threatening,At home,2000,3,1,1
+M217,Journey Through the Mists,Comforting,Part-time,1996,1,2,2
+M218,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M219,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M220,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M221,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M222,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M223,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M224,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M225,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M226,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M227,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M228,Journey Through the Mists,Comforting,At home,1996,1,1,2
+M229,Journey Through the Mists,Threatening,Part-time,1996,3,2,2
+M230,Journey to Big Water,Comforting,At home,2002,1,1,2
+M231,Journey to Big Water,Comforting,At home,2002,1,1,2
+M232,Journey to Big Water,Comforting,At home,2002,1,1,2
+M233,Journey to Big Water,Neutral,Part-time,2002,2,2,2
+M234,Kung Fu Panda,Comforting,At home,2008,1,1,2
+M235,Kung Fu Panda,Comforting,At home,2008,1,1,2
+M236,Kung Fu Panda,Comforting,At home,2008,1,1,2
+M237,Kung Fu Panda,Comforting,At home,2008,1,1,2
+M238,Kung Fu Panda,Neutral,Part-time,2008,2,2,2
+M239,Kung Fu Panda,Neutral,At home,2008,2,1,2
+M240,Kung Fu Panda 2,Comforting,Full-time,2011,1,3,2
+M241,Kung Fu Panda 2,Comforting,Full-time,2011,1,3,2
+M242,Kung Fu Panda 2,Comforting,At home,2011,1,1,2
+M243,Kung Fu Panda 2,Comforting,At home,2011,1,1,2
+M244,Kung Fu Panda 2,Comforting,At home,2011,1,1,2
+M245,Kung Fu Panda 2,Comforting,At home,2011,1,1,2
+M246,Lady and the Tramp,Comforting,At home,1955,1,1,1
+M247,Lady and the Tramp,Comforting,At home,1955,1,1,1
+M248,Lady and the Tramp,Threatening,At home,1955,3,1,1
+M249,Lady and the Tramp,Threatening,At home,1955,3,1,1
+M250,Lady and the Tramp II: Scamp's Adventure,Comforting,At home,2001,1,1,2
+M251,Lady and the Tramp II: Scamp's Adventure,Comforting,At home,2001,1,1,2
+M252,Lady and the Tramp II: Scamp's Adventure,Comforting,At home,2001,1,1,2
+M253,Lilo & Stitch 2: Stitch Has a Glitch,Comforting,Part-time,2005,1,2,2
+M254,Lilo & Stitch 2: Stitch Has a Glitch,Comforting,At home,2005,1,1,2
+M255,Lilo & Stitch 2: Stitch Has a Glitch,Threatening,At home,2005,3,1,2
+M256,Lilo and Stitch,Comforting,Part-time,2002,1,2,2
+M257,Madagascar,Comforting,At home,2005,1,1,2
+M258,Madagascar,Neutral,At home,2005,2,1,2
+M259,Madagascar,Neutral,At home,2005,2,1,2
+M260,Madagascar,Neutral,At home,2005,2,1,2
+M261,Madagascar,Neutral,At home,2005,2,1,2
+M262,Madagascar: Escape 2 Africa,Comforting,Part-time,2008,1,2,2
+M263,Madagascar: Escape 2 Africa,Comforting,Part-time,2008,1,2,2
+M264,Madagascar: Escape 2 Africa,Comforting,At home,2008,1,1,2
+M265,Madagascar: Escape 2 Africa,Comforting,At home,2008,1,1,2
+M266,Meet the Robinsons,Comforting,Full-time,2007,1,3,1
+M267,Meet the Robinsons,Comforting,Full-time,2007,1,3,1
+M268,Meet the Robinsons,Comforting,Part-time,2007,1,2,1
+M269,Meet the Robinsons,Comforting,Part-time,2007,1,2,1
+M270,Meet the Robinsons,Comforting,At home,2007,1,1,1
+M271,Meet the Robinsons,Comforting,At home,2007,1,1,1
+M272,Meet the Robinsons,Comforting,At home,2007,1,1,1
+M273,Meet the Robinsons,Comforting,At home,2007,1,1,1
+M274,Meet the Robinsons,Neutral,Part-time,2007,2,2,1
+M275,Meet the Robinsons,Threatening,At home,2007,3,1,1
+M276,Meet the Robinsons,Threatening,At home,2007,3,1,1
+M277,Meet the Robinsons,Threatening,At home,2007,3,1,1
+M278,Meet the Robinsons,Threatening,At home,2007,3,1,1
+M279,"Mickey, Donald, Goofy: The Three Musketeers",Comforting,At home,2004,1,1,1
+M280,"Mickey, Donald, Goofy: The Three Musketeers",Neutral,Full-time,2004,2,3,1
+M281,"Mickey, Donald, Goofy: The Three Musketeers",Neutral,At home,2004,2,1,1
+M282,"Mickey, Donald, Goofy: The Three Musketeers",Neutral,At home,2004,2,1,1
+M283,"Mickey, Donald, Goofy: The Three Musketeers",Neutral,At home,2004,2,1,1
+M284,Monsters vs. Aliens,Comforting,At home,2009,1,1,2
+M285,Monsters vs. Aliens,Threatening,At home,2009,3,1,2
+M286,"Monsters, Inc.",Comforting,Full-time,2001,1,3,2
+M287,"Monsters, Inc.",Threatening,At home,2001,3,1,2
+M288,Mulan,Neutral,At home,1998,2,1,1
+M289,Mulan,Neutral,At home,1998,2,1,1
+M290,Oliver & Company,Comforting,Full-time,1988,1,3,1
+M291,Oliver & Company,Comforting,Full-time,1988,1,3,1
+M292,Oliver & Company,Comforting,At home,1988,1,1,1
+M293,Oliver & Company,Comforting,At home,1988,1,1,1
+M294,Open Season,Comforting,Full-time,2006,1,3,2
+M295,Open Season,Comforting,At home,2006,1,1,2
+M296,Open Season 2,Comforting,Part-time,2008,1,2,2
+M297,Open Season 2,Comforting,Part-time,2008,1,2,2
+M298,Open Season 2,Comforting,At home,2008,1,1,2
+M299,Open Season 2,Threatening,At home,2008,3,1,2
+M300,Over the Hedge,Comforting,At home,2006,1,1,2
+M301,Over the Hedge,Comforting,At home,2006,1,1,2
+M302,Over the Hedge,Comforting,At home,2006,1,1,2
+M303,Over the Hedge,Neutral,At home,2006,2,1,2
+M304,Over the Hedge,Threatening,Full-time,2006,3,3,2
+M305,Peter Pan,Comforting,At home,1953,1,1,1
+M306,Peter Pan,Comforting,At home,1953,1,1,1
+M307,Peter Pan,Threatening,At home,1953,3,1,1
+M308,Pinocchio,Comforting,Full-time,1940,1,3,1
+M309,Pinocchio,Comforting,Part-time,1940,1,2,1
+M310,Pinocchio,Comforting,At home,1940,1,1,1
+M311,Pinocchio,Comforting,At home,1940,1,1,1
+M312,Pinocchio,Comforting,At home,1940,1,1,1
+M313,Pinocchio,Neutral,Part-time,1940,2,2,1
+M314,Pinocchio,Threatening,At home,1940,3,1,1
+M315,Pocahontas,Comforting,At home,1995,1,1,1
+M316,Pocahontas,Comforting,At home,1995,1,1,1
+M317,Ratatouille,Comforting,Part-time,2007,1,2,2
+M318,Ratatouille,Comforting,At home,2007,1,1,2
+M319,Ratatouille,Neutral,At home,2007,2,1,2
+M320,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M321,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M322,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M323,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M324,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M325,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M326,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M327,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M328,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M329,Return to Never Land,Comforting,Part-time,2002,1,2,2
+M330,Return to Never Land,Comforting,At home,2002,1,1,2
+M331,Robin Hood,Comforting,Full-time,1973,1,3,1
+M332,Robin Hood,Comforting,Full-time,1973,1,3,1
+M333,Robin Hood,Comforting,At home,1973,1,1,1
+M334,Robin Hood,Threatening,Full-time,1973,3,3,1
+M335,Robots,Comforting,At home,2005,1,1,2
+M336,Robots,Comforting,At home,2005,1,1,2
+M337,Robots,Threatening,Full-time,2005,3,3,2
+M338,Shark Tale,Neutral,At home,2004,2,1,2
+M339,Shrek,Comforting,Full-time,2001,1,3,1
+M340,Shrek,Comforting,Part-time,2001,1,2,1
+M341,Shrek,Comforting,Part-time,2001,1,2,1
+M342,Shrek,Comforting,At home,2001,1,1,1
+M343,Shrek 2,Comforting,Full-time,2004,1,3,2
+M344,Shrek 2,Comforting,Part-time,2004,1,2,2
+M345,Shrek 2,Threatening,Full-time,2004,3,3,2
+M346,Shrek Forever After,Comforting,Full-time,2010,1,3,2
+M347,Shrek Forever After,Comforting,At home,2010,1,1,2
+M348,Shrek the Third,Comforting,Full-time,2007,1,3,2
+M349,Shrek the Third,Comforting,Part-time,2007,1,2,2
+M350,Shrek the Third,Comforting,At home,2007,1,1,2
+M351,Shrek the Third,Comforting,At home,2007,1,1,2
+M352,Shrek the Third,Comforting,At home,2007,1,1,2
+M353,Shrek the Third,Neutral,At home,2007,2,1,2
+M354,Shrek the Third,Threatening,Full-time,2007,3,3,2
+M355,Sinbad: Legend of the Seven Seas,Comforting,At home,2003,1,1,1
+M356,Sinbad: Legend of the Seven Seas,Neutral,Full-time,2003,2,3,1
+M357,Sinbad: Legend of the Seven Seas,Neutral,Full-time,2003,2,3,1
+M358,Sinbad: Legend of the Seven Seas,Threatening,Full-time,2003,3,3,1
+M359,Sleeping Beauty,Comforting,At home,1959,1,1,1
+M360,Sleeping Beauty,Comforting,At home,1959,1,1,1
+M361,Sleeping Beauty,Comforting,At home,1959,1,1,1
+M362,Sleeping Beauty,Neutral,Full-time,1959,2,3,1
+M363,Sleeping Beauty,Neutral,Full-time,1959,2,3,1
+M364,Sleeping Beauty,Threatening,At home,1959,3,1,1
+M365,Snow White and the Seven Dwarfs,Comforting,At home,1937,1,1,1
+M366,Snow White and the Seven Dwarfs,Comforting,At home,1937,1,1,1
+M367,Snow White and the Seven Dwarfs,Comforting,At home,1937,1,1,1
+M368,Snow White and the Seven Dwarfs,Threatening,Full-time,1937,3,3,1
+M369,Spirit: Stallion of the Cimarron,Comforting,Part-time,2002,1,2,2
+M370,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M371,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M372,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M373,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M374,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M375,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M376,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M377,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M378,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M379,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M380,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M381,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M382,Spirit: Stallion of the Cimarron,Comforting,At home,2002,1,1,2
+M383,Surf's Up,Comforting,Full-time,2007,1,3,2
+M384,Surf's Up,Threatening,At home,2007,3,1,2
+M385,Surf's Up,Threatening,At home,2007,3,1,2
+M386,Tangled,Comforting,Full-time,2010,1,3,1
+M387,Tangled,Threatening,Part-time,2010,3,2,1
+M388,Tarzan,Comforting,At home,1999,1,1,1
+M389,Tarzan,Comforting,At home,1999,1,1,1
+M390,Tarzan,Comforting,At home,1999,1,1,1
+M391,Tarzan,Comforting,At home,1999,1,1,1
+M392,Tarzan,Comforting,At home,1999,1,1,1
+M393,Tarzan,Comforting,At home,1999,1,1,1
+M394,Tarzan,Comforting,At home,1999,1,1,1
+M395,Tarzan,Comforting,At home,1999,1,1,1
+M396,Tarzan,Comforting,At home,1999,1,1,1
+M397,Tarzan,Comforting,At home,1999,1,1,1
+M398,Tarzan & Jane,Comforting,At home,2002,1,1,2
+M399,Tarzan II,Comforting,Part-time,2005,1,2,2
+M400,Tarzan II,Comforting,At home,2005,1,1,2
+M401,Tarzan II,Comforting,At home,2005,1,1,2
+M402,Tarzan II,Comforting,At home,2005,1,1,2
+M403,Tarzan II,Comforting,At home,2005,1,1,2
+M404,Tarzan II,Comforting,At home,2005,1,1,2
+M405,Tarzan II,Threatening,At home,2005,3,1,2
+M406,The Aristocats,Comforting,At home,1970,1,1,2
+M407,The Aristocats,Comforting,At home,1970,1,1,2
+M408,The Aristocats,Threatening,At home,1970,3,1,2
+M409,The Emperor's New Groove,Comforting,At home,2000,1,1,2
+M410,The Emperor's New Groove,Threatening,Full-time,2000,3,3,2
+M411,The Fox and the Hound,Comforting,Part-time,1981,1,2,1
+M412,The Fox and the Hound,Comforting,Part-time,1981,1,2,1
+M413,The Fox and the Hound,Comforting,Part-time,1981,1,2,1
+M414,The Fox and the Hound,Comforting,Part-time,1981,1,2,1
+M415,The Fox and the Hound,Comforting,At home,1981,1,1,1
+M416,The Fox and the Hound,Comforting,At home,1981,1,1,1
+M417,The Fox and the Hound,Comforting,At home,1981,1,1,1
+M418,The Fox and the Hound,Comforting,At home,1981,1,1,1
+M419,The Fox and the Hound,Comforting,At home,1981,1,1,1
+M420,The Fox and the Hound,Neutral,At home,1981,2,1,1
+M421,The Fox and the Hound 2,Comforting,Full-time,2006,1,3,2
+M422,The Fox and the Hound 2,Comforting,Full-time,2006,1,3,2
+M423,The Fox and the Hound 2,Comforting,At home,2006,1,1,2
+M424,The Fox and the Hound 2,Comforting,At home,2006,1,1,2
+M425,The Fox and the Hound 2,Comforting,At home,2006,1,1,2
+M426,The Fox and the Hound 2,Comforting,At home,2006,1,1,2
+M427,The Fox and the Hound 2,Comforting,At home,2006,1,1,2
+M428,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M429,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M430,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M431,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M432,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M433,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M434,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M435,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M436,The Great Longneck Migration,Comforting,At home,2003,1,1,2
+M437,The Great Longneck Migration,Neutral,At home,2003,2,1,2
+M438,The Great Mouse Detective,Comforting,Full-time,1986,1,3,1
+M439,The Great Mouse Detective,Comforting,Full-time,1986,1,3,1
+M440,The Great Mouse Detective,Comforting,At home,1986,1,1,1
+M441,The Great Valley Adventure,Comforting,Part-time,1994,1,2,2
+M442,The Great Valley Adventure,Comforting,Part-time,1994,1,2,2
+M443,The Great Valley Adventure,Comforting,At home,1994,1,1,2
+M444,The Great Valley Adventure,Comforting,At home,1994,1,1,2
+M445,The Great Valley Adventure,Comforting,At home,1994,1,1,2
+M446,The Great Valley Adventure,Comforting,At home,1994,1,1,2
+M447,The Great Valley Adventure,Threatening,At home,1994,3,1,2
+M448,The Great Valley Adventure,Threatening,At home,1994,3,1,2
+M449,The Hunchback of Notre Dame,Comforting,At home,1996,1,1,1
+M450,The Hunchback of Notre Dame,Comforting,At home,1996,1,1,1
+M451,The Hunchback of Notre Dame,Neutral,At home,1996,2,1,1
+M452,The Hunchback of Notre Dame,Neutral,At home,1996,2,1,1
+M453,The Hunchback of Notre Dame,Neutral,At home,1996,2,1,1
+M454,The Hunchback of Notre Dame,Neutral,At home,1996,2,1,1
+M455,The Hunchback of Notre Dame,Neutral,At home,1996,2,1,1
+M456,The Hunchback of Notre Dame II,Comforting,Part-time,2002,1,2,2
+M457,The Hunchback of Notre Dame II,Comforting,At home,2002,1,1,2
+M458,The Hundred and One Dalmatians,Comforting,At home,1961,1,1,1
+M459,The Hundred and One Dalmatians,Comforting,At home,1961,1,1,1
+M460,The Hundred and One Dalmatians,Comforting,At home,1961,1,1,1
+M461,The Hundred and One Dalmatians,Threatening,At home,1961,3,1,1
+M462,The Hundred and One Dalmatians II: Patch's London Adventure,Comforting,Full-time,2003,1,3,2
+M463,The Hundred and One Dalmatians II: Patch's London Adventure,Comforting,At home,2003,1,1,2
+M464,The Hundred and One Dalmatians II: Patch's London Adventure,Comforting,At home,2003,1,1,2
+M465,The Hundred and One Dalmatians II: Patch's London Adventure,Comforting,At home,2003,1,1,2
+M466,The Hundred and One Dalmatians II: Patch's London Adventure,Neutral,Part-time,2003,2,2,2
+M467,The Hundred and One Dalmatians II: Patch's London Adventure,Threatening,Full-time,2003,3,3,2
+M468,The Hundred and One Dalmatians II: Patch's London Adventure,Threatening,Full-time,2003,3,3,2
+M469,The Incredibles,Comforting,Part-time,2004,1,2,2
+M470,The Incredibles,Comforting,At home,2004,1,1,2
+M471,The Incredibles,Comforting,At home,2004,1,1,2
+M472,The Incredibles,Neutral,At home,2004,2,1,2
+M473,The Jungle Book,Comforting,Part-time,1967,1,2,1
+M474,The Jungle Book,Comforting,At home,1967,1,1,1
+M475,The Jungle Book 2,Neutral,At home,2003,2,1,2
+M476,The Jungle Book 2,Neutral,At home,2003,2,1,2
+M477,The King and I,Comforting,Full-time,1999,1,3,1
+M478,The King and I,Comforting,At home,1999,1,1,1
+M479,The King and I,Comforting,At home,1999,1,1,1
+M480,The King and I,Neutral,At home,1999,2,1,1
+M481,The King and I,Neutral,At home,1999,2,1,1
+M482,The King and I,Neutral,At home,1999,2,1,1
+M483,The King and I,Neutral,At home,1999,2,1,1
+M484,The King and I,Neutral,At home,1999,2,1,1
+M485,The Land Before Time,Comforting,Full-time,1988,1,3,2
+M486,The Land Before Time,Comforting,Full-time,1988,1,3,2
+M487,The Land Before Time,Comforting,At home,1988,1,1,2
+M488,The Land Before Time,Comforting,At home,1988,1,1,2
+M489,The Land Before Time,Comforting,At home,1988,1,1,2
+M490,The Land Before Time,Comforting,At home,1988,1,1,2
+M491,The Land Before Time,Neutral,At home,1988,2,1,2
+M492,The Lion King,Comforting,Part-time,1994,1,2,1
+M493,The Lion King,Comforting,Part-time,1994,1,2,1
+M494,The Lion King 1½,Comforting,Part-time,2004,1,2,2
+M495,The Lion King II: Simba's Pride,Comforting,Part-time,1998,1,2,1
+M496,The Lion King II: Simba's Pride,Comforting,Part-time,1998,1,2,1
+M497,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M498,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M499,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M500,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M501,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M502,The Lion King II: Simba's Pride,Comforting,At home,1998,1,1,1
+M503,The Lion King II: Simba's Pride,Threatening,Part-time,1998,3,2,1
+M504,The Little Mermaid,Comforting,Full-time,1989,1,3,1
+M505,The Little Mermaid,Threatening,Full-time,1989,3,3,1
+M506,The Little Mermaid II: Return to the Sea,Comforting,Full-time,2000,1,3,2
+M507,The Little Mermaid II: Return to the Sea,Comforting,Full-time,2000,1,3,2
+M508,The Little Mermaid II: Return to the Sea,Comforting,At home,2000,1,1,2
+M509,The Little Mermaid II: Return to the Sea,Comforting,At home,2000,1,1,2
+M510,The Little Mermaid II: Return to the Sea,Neutral,At home,2000,2,1,2
+M511,The Little Mermaid II: Return to the Sea,Neutral,At home,2000,2,1,2
+M512,The Little Mermaid II: Return to the Sea,Neutral,At home,2000,2,1,2
+M513,The Little Mermaid II: Return to the Sea,Neutral,At home,2000,2,1,2
+M514,The Little Mermaid II: Return to the Sea,Threatening,Full-time,2000,3,3,2
+M515,The Little Mermaid II: Return to the Sea,Threatening,At home,2000,3,1,2
+M516,The Little Mermaid: Ariel's Beginning,Comforting,Full-time,2008,1,3,2
+M517,The Little Mermaid: Ariel's Beginning,Comforting,At home,2008,1,1,2
+M518,The Little Mermaid: Ariel's Beginning,Comforting,At home,2008,1,1,2
+M519,The Little Mermaid: Ariel's Beginning,Threatening,Full-time,2008,3,3,2
+M520,The Many Adventures of Winnie the Pooh,Comforting,Part-time,1977,1,2,1
+M521,The Many Adventures of Winnie the Pooh,Comforting,At home,1977,1,1,1
+M522,The Mysterious Island,Comforting,Part-time,1997,1,2,2
+M523,The Mysterious Island,Comforting,Part-time,1997,1,2,2
+M524,The Mysterious Island,Comforting,At home,1997,1,1,2
+M525,The Mysterious Island,Comforting,At home,1997,1,1,2
+M526,The Mysterious Island,Comforting,At home,1997,1,1,2
+M527,The Mysterious Island,Comforting,At home,1997,1,1,2
+M528,The Polar Express,Comforting,Part-time,2004,1,2,1
+M529,The Polar Express,Threatening,At home,2004,3,1,1
+M530,The Prince of Egypt,Comforting,Full-time,1998,1,3,1
+M531,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M532,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M533,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M534,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M535,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M536,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M537,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M538,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M539,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M540,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M541,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M542,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M543,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M544,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M545,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M546,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M547,The Prince of Egypt,Comforting,At home,1998,1,1,1
+M548,The Prince of Egypt,Neutral,Full-time,1998,2,3,1
+M549,The Princess and the Frog,Comforting,Full-time,2009,1,3,1
+M550,The Princess and the Frog,Comforting,Full-time,2009,1,3,1
+M551,The Princess and the Frog,Comforting,Part-time,2009,1,2,1
+M552,The Princess and the Frog,Comforting,Part-time,2009,1,2,1
+M553,The Princess and the Frog,Comforting,Part-time,2009,1,2,1
+M554,The Princess and the Frog,Comforting,At home,2009,1,1,1
+M555,The Princess and the Frog,Neutral,At home,2009,2,1,1
+M556,The Princess and the Frog,Neutral,At home,2009,2,1,1
+M557,The Princess and the Frog,Threatening,At home,2009,3,1,1
+M558,The Rescuers,Comforting,Full-time,1977,1,3,1
+M559,The Rescuers,Comforting,At home,1977,1,1,1
+M560,The Rescuers,Comforting,At home,1977,1,1,1
+M561,The Rescuers,Neutral,Part-time,1977,2,2,1
+M562,The Rescuers,Threatening,Part-time,1977,3,2,1
+M563,The Rescuers Down Under,Comforting,Part-time,1990,1,2,1
+M564,The Rescuers Down Under,Neutral,At home,1990,2,1,1
+M565,The Return of Jafar,Comforting,At home,1994,1,1,2
+M566,The Secret of NIMH,Comforting,At home,1982,1,1,1
+M567,The Secret of NIMH,Threatening,Part-time,1982,3,2,1
+M568,The Secret of Saurus Rock,Comforting,Part-time,1998,1,2,2
+M569,The Secret of Saurus Rock,Comforting,At home,1998,1,1,2
+M570,The Secret of Saurus Rock,Comforting,At home,1998,1,1,2
+M571,The Secret of Saurus Rock,Comforting,At home,1998,1,1,2
+M572,The Swan Princess,Neutral,Full-time,1994,2,3,1
+M573,The Swan Princess,Threatening,Full-time,1994,3,3,1
+M574,The Swan Princess,Threatening,Full-time,1994,3,3,1
+M575,The Sword in the Stone,Neutral,At home,1963,2,1,1
+M576,The Sword in the Stone,Threatening,At home,1963,3,1,1
+M577,The Time of the Great Giving,Comforting,At home,1995,1,1,2
+M578,The Time of the Great Giving,Comforting,At home,1995,1,1,2
+M579,The Time of the Great Giving,Comforting,At home,1995,1,1,2
+M580,The Time of the Great Giving,Neutral,At home,1995,2,1,2
+M581,The Time of the Great Giving,Neutral,At home,1995,2,1,2
+M582,The Time of the Great Giving,Neutral,At home,1995,2,1,2
+M583,The Time of the Great Giving,Neutral,At home,1995,2,1,2
+M584,Thumbelina,Comforting,Full-time,1994,1,3,1
+M585,Thumbelina,Comforting,Part-time,1994,1,2,1
+M586,Thumbelina,Comforting,At home,1994,1,1,1
+M587,Thumbelina,Comforting,At home,1994,1,1,1
+M588,Thumbelina,Comforting,At home,1994,1,1,1
+M589,Thumbelina,Comforting,At home,1994,1,1,1
+M590,Thumbelina,Threatening,Full-time,1994,3,3,1
+M591,Thumbelina,Threatening,At home,1994,3,1,1
+M592,Tinker Bell,Comforting,Full-time,2008,1,3,2
+M593,Tinker Bell,Comforting,Full-time,2008,1,3,2
+M594,Tinker Bell,Comforting,At home,2008,1,1,2
+M595,Tinker Bell and the Great Fairy Rescue,Neutral,Full-time,2010,2,3,2
+M596,Tinker Bell and the Great Fairy Rescue,Neutral,At home,2010,2,1,2
+M597,Toy Story,Comforting,At home,1995,1,1,2
+M598,Toy Story,Neutral,At home,1995,2,1,2
+M599,Toy Story 2,Comforting,At home,1999,1,1,2
+M600,Toy Story 2,Comforting,At home,1999,1,1,2
+M601,Toy Story 3,Comforting,Part-time,2010,1,2,2
+M602,Toy Story 3,Comforting,At home,2010,1,1,2
+M603,Toy Story 3,Comforting,At home,2010,1,1,2
+M604,Toy Story 3,Neutral,Full-time,2010,2,3,2
+M605,Toy Story 3,Neutral,Full-time,2010,2,3,2
+M606,Toy Story 3,Neutral,Full-time,2010,2,3,2
+M607,Toy Story 3,Threatening,At home,2010,3,1,2
+M608,Treasure Planet,Comforting,Full-time,2002,1,3,1
+M609,Treasure Planet,Comforting,Full-time,2002,1,3,1
+M610,Treasure Planet,Comforting,At home,2002,1,1,1
+M611,Treasure Planet,Neutral,At home,2002,2,1,1
+M612,Treasure Planet,Neutral,At home,2002,2,1,1
+M613,Treasure Planet,Neutral,At home,2002,2,1,1
+M614,Up,Comforting,Part-time,2009,1,2,2
+M615,Up,Comforting,Part-time,2009,1,2,2
+M616,Up,Comforting,At home,2009,1,1,2
+M617,Up,Comforting,At home,2009,1,1,2
+M618,Up,Comforting,At home,2009,1,1,2
+M619,Up,Comforting,At home,2009,1,1,2
+M620,Up,Threatening,At home,2009,3,1,2
+M621,Up,Threatening,At home,2009,3,1,2
+M622,WALL-E,Comforting,At home,2008,1,1,2
+M623,WALL-E,Comforting,At home,2008,1,1,2
+M624,WALL-E,Neutral,Full-time,2008,2,3,2
