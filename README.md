@@ -1,4 +1,4 @@
-## CAS Applied Data Science Material
+# CAS Applied Data Science Material
 
 Personal (PBecerra) repository for the CAS Applied Data Science program, taken at the University of Bern during the 2023 - 24 academic year.
 
@@ -14,7 +14,7 @@ All module folders are different from the originally provided files as they incl
 
 P. Becerra 2023-11-10
 
-# Base readme
+## Base (original) readme
 
 CAS-Applied-Data-Science
 
