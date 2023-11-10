@@ -1,6 +1,19 @@
 # Module 1: Data Acquisition and Management 
 
+Understand data sources and types, design dataflows and models, manage and visualise data algorithmically.
+
+Topics: 
+
+- Data sources, types, sizes, storage systems, common infrastructures and acquisition techniques
+- Analyse data flows
+- Develop conceptual, logical and physical data models
+- Databases and MySQL
+- Design data management plans
+- Collect, manage and visualize data
+
 Original notebooks were edited during the module and notes were added.
+
+P. Becerra, 2023-11-10
 
 ## CAS-Applied-Data-Science
 

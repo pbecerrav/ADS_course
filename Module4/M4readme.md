@@ -7,3 +7,5 @@ In this module, we reflect upon and apply best practices for data and code manag
 - Licensing
 
 Project: The project for this module was the creation and documentation of the current repository. 
+
+P. Becerra, 2023-11-10

@@ -11,3 +11,5 @@ Basic introduction on how to perform typical machine learning tasks with Python.
 - Scikit-learn and clustering maps, Q&A
 
 Project: Clasification of unconsolidated sediments from drill cores and borehole log data. Group project with Sebastian Schaller. Notebook in Module3/M3project/script_for_presentation_CAS_ADP_M2.ipynb
+
+P. Becerra, 2023-11-10
