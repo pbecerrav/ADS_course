@@ -1,2 +1,4 @@
 *.code-workspace
 .DS_Store
+**/.DS_Store
+Module1/M1project/data
