@@ -1,0 +1,8 @@
+Module 6 Thursday links: 
+
+- TensorFlow Tutorials: https://www.tensorflow.org/tutorials
+- Hugging Face: https://huggingface.co/
+- PyTorch Tutorials: https://pytorch.org/tutorials/
+- Google DeepMind: https://github.com/google-deepmind
+- PyTorch models to try out: https://pytorch.org/vision/stable/models.html
+
