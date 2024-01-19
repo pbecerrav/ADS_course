@@ -5,4 +5,5 @@ Module 6 Thursday links:
 - PyTorch Tutorials: https://pytorch.org/tutorials/
 - Google DeepMind: https://github.com/google-deepmind
 - PyTorch models to try out: https://pytorch.org/vision/stable/models.html
+- CNN Guide: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 
