@@ -12,6 +12,8 @@ Structure is based on the lead instructor's Git Repo (see below), and is as foll
 
 All module folders are different from the originally provided files as they include personal notes and edits taken during class. Module folders also include the individual Module Project folders where applicable (e.g. Module2/project)
 
+In addition, "CAS_Project" contains all files and deliverables pertaining to my CAS final project.
+
 P. Becerra 2023-11-10
 
 ## Base (original) readme
